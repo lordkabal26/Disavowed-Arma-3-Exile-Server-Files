@@ -12,8 +12,8 @@ R3F_LOG_CFG_can_lift = R3F_LOG_CFG_can_lift +
 
 R3F_LOG_CFG_can_be_lifted = R3F_LOG_CFG_can_be_lifted +
 [
-	"cargo_base_f",
-	"land_cargobox_v1_f"
+	/*"cargo_base_f",
+	"land_cargobox_v1_f"*/
 ];
 
 R3F_LOG_CFG_can_transport_cargo = R3F_LOG_CFG_can_transport_cargo +

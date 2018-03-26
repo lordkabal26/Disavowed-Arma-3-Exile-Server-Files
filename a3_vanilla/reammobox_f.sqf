@@ -12,12 +12,12 @@ R3F_LOG_CFG_can_lift = R3F_LOG_CFG_can_lift +
 
 R3F_LOG_CFG_can_be_lifted = R3F_LOG_CFG_can_be_lifted +
 [
-	"b_supplycrate_f",
+	/*"b_supplycrate_f",
 	"c_supplycrate_f",
 	"box_east_ammoveh_f",
 	"ig_supplycrate_f",
 	"box_ind_ammoveh_f",
-	"box_nato_ammoveh_f"
+	"box_nato_ammoveh_f"*/
 ];
 
 R3F_LOG_CFG_can_transport_cargo = R3F_LOG_CFG_can_transport_cargo +

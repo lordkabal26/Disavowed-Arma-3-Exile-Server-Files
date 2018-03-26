@@ -4,19 +4,19 @@ R3F_LOG_CFG_can_tow = R3F_LOG_CFG_can_tow +
 
 R3F_LOG_CFG_can_be_towed = R3F_LOG_CFG_can_be_towed +
 [
-	"plane"
+	//"plane"
 ];
 
 R3F_LOG_CFG_can_lift = R3F_LOG_CFG_can_lift +
 [
-	"heli_light_02_base_f",
+	/*"heli_light_02_base_f",
 	"heli_transport_01_base_f",
-	"heli_transport_02_base_f"
+	"heli_transport_02_base_f"*/
 ];
 
 R3F_LOG_CFG_can_be_lifted = R3F_LOG_CFG_can_be_lifted +
 [
-	"plane"
+	//"plane"
 ];
 
 R3F_LOG_CFG_can_transport_cargo = R3F_LOG_CFG_can_transport_cargo +
