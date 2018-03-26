@@ -1,7 +1,7 @@
 R3F_LOG_CFG_can_tow = R3F_LOG_CFG_can_tow +
 [
     //Larger Vehicles
-	"BRDM2_HQ_Base",
+	/*"BRDM2_HQ_Base",
 	"BTR40_MG_base_EP1",
 	"Landrover_civ",
 	"Offroad_02_base_F",
@@ -27,13 +27,13 @@ R3F_LOG_CFG_can_tow = R3F_LOG_CFG_can_tow +
     //Boats
 	"Boat_Transport_02_base_F",
 	"SDV_01_base_F",
-	"Boat_Civil_01_base_F"
+	"Boat_Civil_01_base_F"*/
 ];
 
 R3F_LOG_CFG_can_be_towed = R3F_LOG_CFG_can_be_towed +
 [
     //Cars
-    "Hatchback_01_base_F",
+    /*"Hatchback_01_base_F",
 	"Lada_Base",
 	"Octavia_Base",	
 	"volha_Base",
@@ -65,7 +65,7 @@ R3F_LOG_CFG_can_be_towed = R3F_LOG_CFG_can_be_towed +
     //Boats
 	"Boat_Transport_02_base_F",
 	"SDV_01_base_F",
-	"Boat_Civil_01_base_F"
+	"Boat_Civil_01_base_F"*/
                         
 ];
 
@@ -77,7 +77,7 @@ R3F_LOG_CFG_can_lift = R3F_LOG_CFG_can_lift +
 R3F_LOG_CFG_can_be_lifted = R3F_LOG_CFG_can_be_lifted +
 [
     //Cars
-    "Hatchback_01_base_F",
+    /*"Hatchback_01_base_F",
 	"Lada_Base",
 	"Octavia_Base",	
 	"volha_Base",
@@ -111,7 +111,7 @@ R3F_LOG_CFG_can_be_lifted = R3F_LOG_CFG_can_be_lifted +
     //Boats
 	"Boat_Transport_02_base_F",
 	"SDV_01_base_F",
-	"Boat_Civil_01_base_F"             
+	"Boat_Civil_01_base_F"*/             
 ];
 
 R3F_LOG_CFG_can_transport_cargo = R3F_LOG_CFG_can_transport_cargo +
