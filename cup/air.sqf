@@ -8,33 +8,6 @@ R3F_LOG_CFG_can_be_towed = R3F_LOG_CFG_can_be_towed +
 
 R3F_LOG_CFG_can_lift = R3F_LOG_CFG_can_lift +
 [
-	"CUP_B_Mi24_D_CDF",
-	"CUP_B_MI6A_CDF",
-	"CUP_B_MI6T_CDF",
-	"CUP_B_Mi17_CDF",
-	"CUP_B_Mi17_VIV_CDF",
-	"CUP_B_L39_RKT_CZ",
-	"CUP_B_Mi35_CZ",
-	"CUP_B_Mi35_CZ_Des",
-	"CUP_B_Mi35_CZ_Ram",
-	"CUP_B_Mi35_CZ_Tiger",
-	"CUP_B_Mi35_CZ_Dark",
-	"CUP_B_Mi171Sh_ACR",
-	"CUP_B_Mi171Sh_Unarmed_ACR",
-	"CUP_B_AH1_NO_BAF",
-	"CUP_B_AH1_AT_BAF",
-	"CUP_B_AH1_ES_BAF",
-	"CUP_B_AH1_BAF",
-	"CUP_B_AH1_MR_BAF",
-	"CUP_B_AW159_Unarmed_GB",
-	"CUP_B_AW159_Hellfire_GB",
-	"CUP_B_AW159_Cannon_GB",
-	"CUP_B_AW159_Hellfire_RN_Grey",
-	"CUP_B_AW159_Cannon_RN_Grey",
-	"CUP_B_Wildcat_Unarmed_RN_Blackcat",
-	"CUP_B_AW159_Hellfire_RN_Blackcat",
-	"CUP_B_AW159_Cannon_RN_Blackcat",
-	"CUP_B_CH47F_GB",
 ];
 
 R3F_LOG_CFG_can_be_lifted = R3F_LOG_CFG_can_be_lifted +
