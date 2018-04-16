@@ -80,7 +80,24 @@
 	class CUP_B_LR_Ambulance_GB_W					{ quality = 1; price = 15000; };
 	class CUP_B_LR_Transport_GB_D					{ quality = 1; price = 15000; };
 	class CUP_B_LR_Transport_GB_W					{ quality = 1; price = 15000; };
-
+	class CUP_B_HMMWV_Ambulance_ACR					{ quality = 1; price = 15000; };
+	class CUP_B_LR_Ambulance_CZ_W					{ quality = 1; price = 15000; };
+	class CUP_B_LR_Ambulance_CZ_D					{ quality = 1; price = 15000; };
+	class CUP_B_LR_Transport_CZ_D					{ quality = 1; price = 15000; };
+	class CUP_B_LR_Transport_CZ_W					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Reammo_CZ_WDL					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Reammo_CZ_DES					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Unarmed_CZ_WDL					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Unarmed_CZ_DES					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Refuel_CZ_WDL					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Refuel_CZ_DES					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Armed_CZ_DES					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Armed_CZ_WDL					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Repair_CZ_DES					{ quality = 1; price = 15000; };
+	class CUP_B_T810_Repair_CZ_WDL					{ quality = 1; price = 15000; };
+	class CUP_B_UAZ_Unarmed_ACR					{ quality = 1; price = 15000; };
+	class CUP_B_UAZ_Open_ACR					{ quality = 1; price = 15000; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	//CUPArmed
 	///////////////////////////////////////////////////////////////////////////////
@@ -199,6 +216,33 @@
 	class CUP_B_Challenger2_2CW_BAF					{ quality = 1; price = 1650000; };
 	class CUP_B_Challenger2_2CD_BAF					{ quality = 1; price = 1650000; };
 	class CUP_B_Challenger2_Woodland_BAF				{ quality = 1; price = 1650000; };
+	class CUP_B_BRDM2_CZ						{ quality = 1; price = 65000; };
+	class CUP_B_BRDM2_CZ_Des					{ quality = 1; price = 65000; };
+	class CUP_B_BRDM2_HQ_CZ						{ quality = 1; price = 65000; };
+	class CUP_B_BRDM2_HQ_CZ_Des					{ quality = 1; price = 65000; };
+	class CUP_B_BMP2_CZ						{ quality = 1; price = 65000; };
+	class CUP_B_BMP2_CZ_Des						{ quality = 1; price = 65000; };
+	class CUP_B_BMP_HQ_CZ_Des					{ quality = 1; price = 65000; };
+	class CUP_B_BMP_HQ_CZ						{ quality = 1; price = 65000; };
+	class CUP_B_BMP2_AMB_CZ_Des					{ quality = 1; price = 65000; };
+	class CUP_B_BMP2_AMB_CZ						{ quality = 1; price = 65000; };
+	class CUP_B_Dingo_GL_CZ_Des					{ quality = 1; price = 65000; };
+	class CUP_B_Dingo_GL_CZ_Wdl					{ quality = 1; price = 65000; };
+	class CUP_B_Dingo_CZ_Des					{ quality = 1; price = 65000; };
+	class CUP_B_Dingo_CZ_Wdl					{ quality = 1; price = 65000; };
+	class CUP_B_HMMWV_AGS_GPK_ACR					{ quality = 1; price = 65000; };
+	class CUP_B_HMMWV_DSHKM_GPK_ACR					{ quality = 1; price = 65000; };
+	class CUP_B_HMMWV_M2_GPK_ACR					{ quality = 1; price = 65000; };
+	class CUP_B_LR_MG_CZ_W						{ quality = 1; price = 65000; };
+	class CUP_B_LR_Special_Des_CZ_D					{ quality = 1; price = 65000; };
+	class CUP_B_LR_Special_CZ_W					{ quality = 1; price = 65000; };
+	class CUP_B_LR_Special_M2_GB_D					{ quality = 1; price = 65000; };
+	class CUP_B_LR_Special_M2_GB_W					{ quality = 1; price = 65000; };
+	class CUP_B_UAZ_AGS30_ACR					{ quality = 1; price = 65000; };
+	class CUP_B_UAZ_MG_ACR						{ quality = 1; price = 65000; };
+	class CUP_B_UAZ_METIS_ACR					{ quality = 1; price = 65000; };
+	class CUP_B_UAZ_SPG9_AC						{ quality = 1; price = 65000; };
+	class CUP_B_T72_CZ						{ quality = 1; price = 1650000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	//CUPHelis
@@ -258,7 +302,14 @@
 	class CUP_B_Merlin_HC4_GB						{ quality = 1; price = 65000; };
 	class CUP_B_SA330_Puma_HC1_BAF						{ quality = 1; price = 65000; };
 	class CUP_B_SA330_Puma_HC2_BAF						{ quality = 1; price = 65000; };
-
+	class CUP_B_Mi171Sh_ACR							{ quality = 1; price = 65000; };
+	class CUP_B_Mi171Sh_Unarmed_ACR						{ quality = 1; price = 65000; };
+	class CUP_B_Mi35_Dynamic_CZ						{ quality = 1; price = 65000; };
+	class CUP_B_Mi35_Dynamic_CZ_Dark					{ quality = 1; price = 65000; };
+	class CUP_B_Mi35_Dynamic_CZ_Des						{ quality = 1; price = 65000; };
+	class CUP_B_Mi35_Dynamic_CZ_Ram						{ quality = 1; price = 65000; };
+	class CUP_B_Mi35_Dynamic_CZ_Tiger					{ quality = 1; price = 65000; };
+	
 
 	///////////////////////////////////////////////////////////////////////////////
 	//CUPPlanes
@@ -315,7 +366,8 @@
 	class CUP_I_SU34_AGM_AAF						{ quality = 5; price = 550000; };
 	class CUP_B_SU34_LGB_CDF						{ quality = 5; price = 550000; };
 	class CUP_B_SU34_AGM_CDF						{ quality = 5; price = 550000; };
-
+	class CUP_B_L39_CZ							{ quality = 1; price = 250000; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	//	Boats
 	///////////////////////////////////////////////////////////////////////////////
