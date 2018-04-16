@@ -6,10 +6,10 @@
 	//////////////////////////////////////////////////////////////////////////////////
 	// BAF Apache
 	//////////////////////////////////////////////////////////////////////////////////
-	class UK3CB_BAF_Apache_AH1									            { quality = 1; price = 250; };
+	class UK3CB_BAF_Apache_AH1								{ quality = 1; price = 250; };
 	class UK3CB_BAF_Apache_AH1_AT					                        { quality = 1; price = 250; };
 	class UK3CB_BAF_Apache_AH1_CAS					                        { quality = 1; price = 250; };
-	class UK3CB_BAF_Apache_AH1_JS								            { quality = 1; price = 250; };
+	class UK3CB_BAF_Apache_AH1_JS						  		{ quality = 1; price = 250; };
 	
 	//////////////////////////////////////////////////////////////////////////////////
 	// BAF Coyote
@@ -21,28 +21,28 @@
 	class UK3CB_BAF_Coyote_Passenger_L111A1_D					            { quality = 1; price = 250; };
 	class UK3CB_BAF_Coyote_Passenger_L111A1_W					            { quality = 1; price = 250; };
 	class UK3CB_BAF_Coyote_Passenger_L134A1_D					            { quality = 1; price = 250; };
-	class UK3CB_BAF_Coyote_Passenger_L134A1_W								{ quality = 1; price = 250; };
+	class UK3CB_BAF_Coyote_Passenger_L134A1_W						    { quality = 1; price = 250; };
 	
 	//////////////////////////////////////////////////////////////////////////////////
 	// BAF Jackal
 	//////////////////////////////////////////////////////////////////////////////////
-	class UK3CB_BAF_Jackal2_L111A1_D					                    { quality = 1; price = 250; };
-	class UK3CB_BAF_Jackal2_L111A1_W					                    { quality = 1; price = 250; };
-	class UK3CB_BAF_Jackal2_L134A1_D					                    { quality = 1; price = 250; };
-	class UK3CB_BAF_Jackal2_L134A1_W					                    { quality = 1; price = 250; };
+	class UK3CB_BAF_Jackal2_L111A1_D					                { quality = 1; price = 250; };
+	class UK3CB_BAF_Jackal2_L111A1_W					                { quality = 1; price = 250; };
+	class UK3CB_BAF_Jackal2_L134A1_D					                { quality = 1; price = 250; };
+	class UK3CB_BAF_Jackal2_L134A1_W					                { quality = 1; price = 250; };
 	class UK3CB_BAF_Jackal2_GMG_D					                        { quality = 1; price = 250; };
 	class UK3CB_BAF_Jackal2_GMG_W					                        { quality = 1; price = 250; };
 	class UK3CB_BAF_Jackal2_L2A1_D					                        { quality = 1; price = 250; };
-	class UK3CB_BAF_Jackal2_L2A1_W								            { quality = 1; price = 250; };
+	class UK3CB_BAF_Jackal2_L2A1_W								{ quality = 1; price = 250; };
 	
 	//////////////////////////////////////////////////////////////////////////////////
 	// BAF Merlin
 	//////////////////////////////////////////////////////////////////////////////////
 	class UK3CB_BAF_Merlin_HC3_18					                        { quality = 1; price = 250; }; 
-	class UK3CB_BAF_Merlin_HC3_18_GPMG					                    { quality = 1; price = 250; };
+	class UK3CB_BAF_Merlin_HC3_18_GPMG					                { quality = 1; price = 250; };
 	class UK3CB_BAF_Merlin_HC3_24					                        { quality = 1; price = 250; }; 
 	class UK3CB_BAF_Merlin_HC3_32					                        { quality = 1; price = 250; };
-	class UK3CB_BAF_Merlin_HC3_CSAR								            { quality = 1; price = 250; };
+	class UK3CB_BAF_Merlin_HC3_CSAR								{ quality = 1; price = 250; };
 	
 	//////////////////////////////////////////////////////////////////////////////////
 	// BAF Wildcat
