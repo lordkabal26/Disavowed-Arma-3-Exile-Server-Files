@@ -81,7 +81,7 @@ class ApexHeadgear
 		"H_Cap_grn_Syndikat_F",
 		"H_Cap_oli_Syndikat_F",
 		"H_Cap_tan_Syndikat_F",
-		"H_FakeHeadgear_Syndikat_F",
+		//"H_FakeHeadgear_Syndikat_F",
 		"H_HelmetB_Enh_tna_F",
 		"H_HelmetB_Light_tna_F",
 		"H_HelmetB_TI_tna_F",
@@ -127,20 +127,17 @@ class ApexBackpacks
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
 	items[] =
 	{
-		"B_Bergen_Base_F",
 		"B_Bergen_dgtl_F",
 		"B_Bergen_hex_F",
 		"B_Bergen_mcamo_F",
 		"B_Bergen_tna_F",
 		"B_Carryall_ghex_F",
 		"B_FieldPack_ghex_F",
-		"B_ViperHarness_base_F",
 		"B_ViperHarness_blk_F",
 		"B_ViperHarness_ghex_F",
 		"B_ViperHarness_hex_F",
 		"B_ViperHarness_khk_F",
 		"B_ViperHarness_oli_F",
-		"B_ViperLightHarness_base_F",
 		"B_ViperLightHarness_blk_F",
 		"B_ViperLightHarness_ghex_F",
 		"B_ViperLightHarness_hex_F",
@@ -313,7 +310,7 @@ class ApexTools
 		"NVGoggles_grn_F",
 		"NVGoggles_gry_F",
 		"Laserdesignator_01_khk_F",
-		"Laserdesignator_02_ghex_F"
+		"Laserdesignator_02_ghex_F",
 		"O_NVGoggles_ghex_F",
 		"O_NVGoggles_hex_F",
 		"O_NVGoggles_urb_F",
@@ -327,8 +324,8 @@ class ApexUAVs
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\gps_ca.paa";
 		items[] =
 		{
-			//"O_T_UAV_04_CAS_F",
-			//"B_T_UAV_03_F"
+			"O_T_UAV_04_CAS_F",
+			"B_T_UAV_03_F"
 		};
 	};
 

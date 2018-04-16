@@ -199,24 +199,24 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 UAV and UAG
 	///////////////////////////////////////////////////////////////////////////////
-	//class B_UAV_01_F  									{ quality = 3; price = 20000; };
-	//class B_UAV_02_CAS_F 								{ quality = 3; price = 50000; };
-	//class B_UAV_02_F  									{ quality = 3; price = 30000; };
-	//class B_UGV_01_F 									{ quality = 3; price = 20000; };
-	//class B_UGV_01_rcws_F  								{ quality = 3; price = 100000; };
-	//class I_UAV_01_F  									{ quality = 3; price = 20000; };
-	//class I_UAV_02_CAS_F 								{ quality = 3; price = 50000; };
-	//class I_UAV_02_F  									{ quality = 3; price = 30000; };
-	//class I_UGV_01_F  									{ quality = 3; price = 20000; };
-	//class I_UGV_01_rcws_F  								{ quality = 3; price = 100000; };
-	//class O_UAV_01_F  									{ quality = 3; price = 20000; };
-	//class O_UAV_02_CAS_F 								{ quality = 3; price = 50000; };
-	//class O_UAV_02_F  									{ quality = 3; price = 30000; };
-	//class O_UGV_01_F 									{ quality = 3; price = 20000; };
-	//class O_UGV_01_rcws_F 								{ quality = 3; price = 100000; };
-	//class B_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// MQ-4A Greyhawk
-	//class O_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// K40 Ababil-3
-	//class I_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// K40 Ababil-3
+	class B_UAV_01_F  									{ quality = 3; price = 20000; };
+	class B_UAV_02_CAS_F 								{ quality = 3; price = 50000; };
+	class B_UAV_02_F  									{ quality = 3; price = 30000; };
+	class B_UGV_01_F 									{ quality = 3; price = 20000; };
+	class B_UGV_01_rcws_F  								{ quality = 3; price = 100000; };
+	class I_UAV_01_F  									{ quality = 3; price = 20000; };
+	class I_UAV_02_CAS_F 								{ quality = 3; price = 50000; };
+	class I_UAV_02_F  									{ quality = 3; price = 30000; };
+	class I_UGV_01_F  									{ quality = 3; price = 20000; };
+	class I_UGV_01_rcws_F  								{ quality = 3; price = 100000; };
+	class O_UAV_01_F  									{ quality = 3; price = 20000; };
+	class O_UAV_02_CAS_F 								{ quality = 3; price = 50000; };
+	class O_UAV_02_F  									{ quality = 3; price = 30000; };
+	class O_UGV_01_F 									{ quality = 3; price = 20000; };
+	class O_UGV_01_rcws_F 								{ quality = 3; price = 100000; };
+	class B_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// MQ-4A Greyhawk
+	class O_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// K40 Ababil-3
+	class I_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// K40 Ababil-3
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Unarmed Helicopters
@@ -267,19 +267,19 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Armed Helicopters
 	///////////////////////////////////////////////////////////////////////////////
-	//class B_Heli_Attack_01_F 							{ quality = 1; price = 160000; };
+	class B_Heli_Attack_01_F 							{ quality = 1; price = 160000; };
 	class B_Heli_Attack_01_dynamicLoadout_F				{ quality = 1; price = 160000; };	//new dynamic version
-	//class B_Heli_Light_01_armed_F						{ quality = 1; price = 110000; };
+	class B_Heli_Light_01_armed_F						{ quality = 1; price = 110000; };
 	class B_Heli_Light_01_dynamicLoadout_F				{ quality = 1; price = 110000; };	//new dynamic version
 	class B_Heli_Transport_01_F 						{ quality = 1; price = 160000; };
 	class B_Heli_Transport_01_camo_F 					{ quality = 1; price = 160000; };
 	class B_Heli_Transport_03_F 						{ quality = 1; price = 160000; };
 	class B_Heli_Transport_03_black_F					{ quality = 1; price = 160000; };
 	class I_Heli_Transport_02_F 						{ quality = 1; price = 160000; };
-	//class I_Heli_light_03_F 							{ quality = 1; price = 110000; };
+	class I_Heli_light_03_F 							{ quality = 1; price = 110000; };
 	class I_Heli_light_03_dynamicLoadout_F				{ quality = 1; price = 110000; };	//new dynamic version
-	//class O_Heli_Attack_02_F 							{ quality = 1; price = 160000; };
-	//class O_Heli_Attack_02_black_F						{ quality = 1; price = 160000; };
+	class O_Heli_Attack_02_F 							{ quality = 1; price = 160000; };
+	class O_Heli_Attack_02_black_F						{ quality = 1; price = 160000; };
 	class O_Heli_Attack_02_dynamicLoadout_F				{ quality = 1; price = 160000; };	//new dynamic version
 	class O_Heli_Attack_02_dynamicLoadout_black_F		{ quality = 1; price = 160000; };	//new dynamic version
 	class O_Heli_Light_02_F 							{ quality = 1; price = 110000; };
@@ -289,7 +289,7 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Planes
 	///////////////////////////////////////////////////////////////////////////////
-	//class B_Plane_CAS_01_F 	                			{ quality = 1; price = 550000; };
+	class B_Plane_CAS_01_F 	                			{ quality = 1; price = 550000; };
 	class B_Plane_CAS_01_dynamicLoadout_F	  			{ quality = 5; price = 550000; };	//new dynamic version
 	class GNT_C185										{ quality = 2; price = 10000; };
 	class GNT_C185F										{ quality = 2; price = 10000; };
@@ -297,7 +297,7 @@
 	class I_Plane_Fighter_03_AA_F	                	{ quality = 5; price = 550000; };
 	class I_Plane_Fighter_03_CAS_F	                	{ quality = 5; price = 550000; };
 	class I_Plane_Fighter_03_dynamicLoadout_F   	   	{ quality = 5; price = 550000; };	//new dynamic version
-	//class O_Plane_CAS_02_F 	                			{ quality = 1; price = 550000; };
+	class O_Plane_CAS_02_F 	                			{ quality = 1; price = 550000; };
 	class O_Plane_CAS_02_dynamicLoadout_F   			{ quality = 5; price = 550000; };	//new dynamic version
 
 	///////////////////////////////////////////////////////////////////////////////

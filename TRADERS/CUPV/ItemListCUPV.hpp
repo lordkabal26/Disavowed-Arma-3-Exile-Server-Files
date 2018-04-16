@@ -255,8 +255,8 @@
 	class CUP_C_Fishing_Boat_Chernarus				{ quality = 1; price = 1000; };
 	class CUP_B_RHIB2Turret_USMC				{ quality = 3; price = 20000; };
 	class CUP_B_RHIB_USMC				{ quality = 2; price = 20000; };
-	//class CUP_B_Seafox_USMC				{ quality = 1; price = 1000; };
-	//class CUP_B_Seafox_USV_USMC				{ quality = 1; price = 1000; };
+	class CUP_B_Seafox_USMC				{ quality = 1; price = 1000; };
+	class CUP_B_Seafox_USV_USMC				{ quality = 1; price = 1000; };
 	class CUP_B_Zodiac_USMC				{ quality = 1; price = 1000; };
 	class AR_Demise                         { quality = 4; price = 200000; };
 	class CUP_B_Frigate_ANZAC						{ quality = 5; price = 1000000; };

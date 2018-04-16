@@ -75,7 +75,6 @@
 		showWeaponFilter = 0;
 		categories[] =
 		{
-			"A3Backpacks",
 			"APEXBackpacks",
 			"APEXHeadgear",
 			"APEXUniforms",
@@ -138,6 +137,7 @@
 			"A3Armed",
 			"A3Cars",
 			"A3Trucks",
+			"A3UGVs",
 			"ApexCars",
 			"Bikes",
 			"CUPArmed",
@@ -158,6 +158,7 @@
 		categories[] =
 		{
 			"A3Planes",
+			"A3UAVs",
 			"A3armedChoppers",
 			"A3unarmedChoppers",
 			"ApexPlanes",
@@ -181,6 +182,7 @@
 		{
 			"A3Boats",
 			"ApexBoats",
+			"CUPBoats",
 			"Boats"
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};

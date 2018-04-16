@@ -1050,12 +1050,6 @@
 	class Exile_Car_Hatchback_Rusty2					{ quality = 3; price = 12000; };
 	class Exile_Car_Hatchback_Rusty3					{ quality = 3; price = 12000; };
 	class Exile_Car_Hatchback_Yellow					{ quality = 3; price = 12000; };
-	class Exile_Car_Hatchback_Sport_White				{ quality = 3; price = 12000; };
-	class Exile_Car_Hatchback_Sport_Blue				{ quality = 3; price = 12000; };
-	class Exile_Car_Hatchback_Sport_Orange				{ quality = 3; price = 12000; };
-	class Exile_Car_Hatchback_Sport_Green				{ quality = 3; price = 12000; };
-	class Exile_Car_Hatchback_Sport_Beige				{ quality = 3; price = 12000; };
-	class Exile_Car_Hatchback_Sport_Red					{ quality = 3; price = 12000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Golf

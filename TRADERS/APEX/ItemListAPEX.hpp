@@ -11,7 +11,7 @@
 	class H_Cap_grn_Syndikat_F       				{ quality = 1; price = 6; };
 	class H_Cap_oli_Syndikat_F       				{ quality = 1; price = 6; };
 	class H_Cap_tan_Syndikat_F       				{ quality = 1; price = 6; };
-	class H_FakeHeadgear_Syndikat_F  				{ quality = 1; price = 6; };
+	//class H_FakeHeadgear_Syndikat_F  				{ quality = 1; price = 6; };
 	class H_HelmetB_Enh_tna_F        				{ quality = 4; price = 100; };
 	class H_HelmetB_Light_tna_F      				{ quality = 2; price = 20; };
 	class H_HelmetB_TI_tna_F          				{ quality = 4; price = 100; };
@@ -249,9 +249,9 @@
 	class H_HelmetO_ViperSP_hex_F     				{ quality = 4; price = 1000; };	//Themal
 	class Laserdesignator_01_khk_F    				{ quality = 1; price = 1000; };	//Thermal
 	class Laserdesignator_02_ghex_F   				{ quality = 1; price = 1000; };	//Thermal
-	class NVGogglesB_blk_F            				{ quality = 1; price = 1000; }; //Normal NightV but fullscreen thermal
-	class NVGogglesB_grn_F            				{ quality = 1; price = 1000; };	//Normal NightV but fullscreen thermal
-	class NVGogglesB_gry_F            				{ quality = 1; price = 1000; };	//Normal NightV but fullscreen thermal
+	//class NVGogglesB_blk_F            				{ quality = 1; price = 1000; }; //Normal NightV but fullscreen thermal
+	//class NVGogglesB_grn_F            				{ quality = 1; price = 1000; };	//Normal NightV but fullscreen thermal
+	//class NVGogglesB_gry_F            				{ quality = 1; price = 1000; };	//Normal NightV but fullscreen thermal
 	
 
 	///////////////////////////////////////////////////////////////////////////////
@@ -330,3 +330,10 @@
 	// Planes
 	///////////////////////////////////////////////////////////////////////////////
 	class C_Plane_Civil_01_F						{ quality = 2; price = 20000; };
+	
+	///////////////////////////////////////////////////////////////////////////////
+	// UAVs
+	///////////////////////////////////////////////////////////////////////////////
+	
+	class O_T_UAV_04_CAS_F							{ quality = 4; price = 40000; };
+	class B_T_UAV_03_F								{ quality = 4; price = 40000; };
