@@ -193,8 +193,13 @@
 	class CUP_B_Wolfhound_HMG_GB_W					{ quality = 1; price = 65000; };
 	class CUP_B_Wolfhound_LMG_GB_D					{ quality = 1; price = 65000; };
 	class CUP_B_Wolfhound_LMG_GB_W					{ quality = 1; price = 65000; };
+	class CUP_B_Challenger2_Desert_BAF				{ quality = 1; price = 1650000; };
+	class CUP_B_Challenger2_Snow_BAF				{ quality = 1; price = 1650000; };
+	class CUP_B_Challenger2_2CS_BAF					{ quality = 1; price = 1650000; };
+	class CUP_B_Challenger2_2CW_BAF					{ quality = 1; price = 1650000; };
+	class CUP_B_Challenger2_2CD_BAF					{ quality = 1; price = 1650000; };
+	class CUP_B_Challenger2_Woodland_BAF				{ quality = 1; price = 1650000; };
 	
-
 	///////////////////////////////////////////////////////////////////////////////
 	//CUPHelis
 	///////////////////////////////////////////////////////////////////////////////
